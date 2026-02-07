@@ -7,8 +7,7 @@ yarn.lock
 .env
 .env.local
 .env.production
-config.js
-Neptune/src/config/config.js
+# config.js  <-- THIS IS NOW TRACKED
 
 # Logs
 *.log
