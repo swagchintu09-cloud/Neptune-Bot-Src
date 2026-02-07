@@ -1,0 +1,38 @@
+module.exports = {
+  token:
+    process.env.token ||
+    "",
+  prefix: "+",
+  color: "#202225",
+  Mongo: "",
+  ownerIDS: ["354455090888835073","354455090888835073"],
+  vote: true,
+  image: "https://media.discordapp.net/attachments/1241172642799816766/1249187753875210291/Picsart_24-04-17_17-00-34-515.jpg?ex=66666441&is=666512c1&hm=6f4268997b45cb645285eaf1fa5e62aa496d3fceb72969dd3092ae06f8d7f292&=&format=webp&width=1191&height=670",
+  setupBgLink: "https://media.discordapp.net/attachments/1241172642799816766/1249187753875210291/Picsart_24-04-17_17-00-34-515.jpg?ex=66d27f41&is=66d12dc1&hm=da10e01c44aed1732ee9a1b428698a67d308199d2322841ead68e7acec13bbe7&=&format=webp&width=1066&height=599",
+  invite: "https://discord.com/oauth2/authorize?client_id=1447288293052907741&permissions=8&integration_type=0&scope=bot",
+  inviteTwo: "https://discord.com/oauth2/authorize?client_id=1447288293052907741&permissions=8&integration_type=0&scope=bot",
+  inviteThree: "https://discord.com/oauth2/authorize?client_id=1447288293052907741&permissions=8&integration_type=0&scope=bot",  
+  ssLink: "https://discord.gg/RbyBv2GsTn",
+  topGg: "",
+  topgg_Api: "",
+  noprefixLogWebhook: "https://discord.com/api/webhooks/1447600443784958032/GF-fMvMFuT2V8CXf7ZrkxMk4NGC9Ezj7hRpJmVsHobR_KXJ_JfolqBan9l8qGB-8AuMd",
+  cmd_log: "https://discord.com/api/webhooks/1447600755132596426/NKrj7r8DC0gscWfsbk_8Q4dqqk1GxMTM373wPpuAqZCH0VNBXKUSyWMUWgtcIksflsJr",
+  error_log: "https://discord.com/api/webhooks/1447601066991685662/mQ3JgAG4D5z3qB4SJfVq2_o_OpjaGLTy2bfPwhskPqDhrgKMS7l9ajOoAJEvAnqA75r3",
+  blacklist_log: "https://discord.com/api/webhooks/1447601214383587450/EoAph0g3lxNSBkgX8YC2VQykjH7P9dXAfWW-TQUB8a_qlDvOpxgxajm9S8_GYr09IODy",
+  join_log: "https://discord.com/api/webhooks/1447601340707770459/STUwWE4k0ioPNB0lLUj0OeNwjr8epRhqtY8q39uVdiVFjgEurQbxttNMrJ2jK9YHEp4G",
+  leave_log: "https://discord.com/api/webhooks/1447601449562538188/8IdbxMjR4s0AhlF9zJCXLnb78ZzI4-GzZzqCv4KIxcN-BCVHRRi-STrgxDm3WkAajQ8Q",
+  spotiId: "",
+  spotiSecret: "",
+  nodes: [
+    {
+      // name: "Neptune",
+      // url: "v4.lavalink.rocks:443",
+      // auth: "horizxon.tech",
+      // secure: true,
+      name: "Neptune ",
+      url: "172.96.140.62:4846",
+      auth: "https://dsc.gg/nothingbot",
+      secure: false,
+    },
+  ],
+};
